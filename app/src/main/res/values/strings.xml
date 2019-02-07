@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="edittext">Enter  Text Here</string>
+    <string name="buttontext">Say</string>
+
+</resources>
